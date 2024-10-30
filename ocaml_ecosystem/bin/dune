@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_ecosystem)
+ (name main)
+ (libraries ocaml_ecosystem))

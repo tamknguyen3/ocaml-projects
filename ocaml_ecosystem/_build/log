@@ -1,0 +1,7 @@
+# dune init project ocaml_ecosystem
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/tamnguyen/.cache/dune/db
+# Workspace root:
+# /Users/tamnguyen/Desktop/ocaml-projects/ocaml-projects/ocaml_ecosystem
+# Auto-detected concurrency: 8
